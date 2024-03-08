@@ -1,0 +1,60 @@
+{
+
+   "products" : [
+     
+      {
+         "id" : 1,
+         "price": 1599,
+         "images": "imgs/mbp-silver-gallery2-202206_GEO_MX.jpg",
+         "title" : "MacBook Pro",
+         "category":"laptops",
+         "thumbnail":"imgs/mbp-silver-gallery2-202206_GEO_MX.jpg"
+      },
+
+      {
+         "id" : 2,
+         "price": 900,
+         "images": "imgs/oppo-f19-1.png",
+         "title" : "Oppo F19",
+         "category":"smartphones",
+         "thumbnail":"imgs/oppo-f19-1.png"
+      },
+
+      {
+         "id" : 3,
+         "price": 1000,
+         "images": "imgs/apple-iphone-x-64gb-silver-used-20191122085356800-_w500_1-8532858c58bff3411615996662135414-640-0.jpg",
+         "title" : "Iphone X",
+         "category":"smartphones",
+         "thumbnail":"imgs/apple-iphone-x-64gb-silver-used-20191122085356800-_w500_1-8532858c58bff3411615996662135414-640-0.jpg"
+      },
+
+      {
+         "id" : 4,
+         "price": 999,
+         "images": "imgs/es-galaxy-s24-s928-sm-s928bzoheub-539443121.avif",
+         "title" : "S24 ultra",
+         "category": "smartphones",
+         "thumbnail":"imgs/es-galaxy-s24-s928-sm-s928bzoheub-539443121.avif"
+      },
+
+      {
+         "id" : 5,
+         "price": 2000,
+         "images": "imgs/1366_2000.jpg",
+         "title" : "Huawei P30 Pro",
+         "category":"smartphones",
+         "thumbnail":"imgs/1366_2000.jpg"
+      },
+
+      {
+         "id" : 6,
+         "price": 1599,
+         "images": "imgs/D_NQ_NP_712164-MLU74841568328_032024-O.webp",
+         "title" : "Smart Tv Samsung 50'' Led 4k",
+         "category": "Tvs",
+         "thumbnail": "imgs/D_NQ_NP_712164-MLU74841568328_032024-O.webp"
+      }
+   ]
+}
+
